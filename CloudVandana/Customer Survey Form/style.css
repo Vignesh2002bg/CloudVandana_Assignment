@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+}
+#text{
+    width: 80%;
+}
+#check{
+    margin-left: 20px;
+}
+.row{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+.card {
+    width: 400px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 20px; /* Added */
+}
+#start{
+    margin-left: 5px;
+}
+#end{
+    margin-right: 5px;
+    margin-left: 20%;
+}
+h2{
+    text-align: center;
+    color: white;
+}
